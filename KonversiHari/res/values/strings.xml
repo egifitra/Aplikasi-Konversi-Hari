@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Konversi Hari</string>
+    <string name="hello_world">Konversi Hari</string>
+    <string name="action_settings">Settings</string>
+	<string name="intputan">Masukkan Jumlah Hari</string>
+    <string name="Konver">Konversikan</string>
+    <string name="hasil">hasil </string>
+</resources>
